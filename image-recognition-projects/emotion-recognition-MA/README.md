@@ -1,7 +1,7 @@
-# Facial Emotion Recognition Using Convolutional Neural Network!
+# Facial Emotion Recognition Using Convolutional Neural Network (CNN)
 *PL: Rozpoznawanie emocji twarzy z wykorzystaniem konwolucyjnych sieci neuronowych*
-
-### DATASET
+***
+### DATASET:
 FER2013 (ang. Facial Expression Recognition 2013 Dataset)
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/38349049/227540307-67c5c037-1a5d-4618-afe9-e1ec12784669.png">
@@ -30,23 +30,33 @@ This would lead to misclassification of the remaining images and vice versa!
 
 ### MODEL:
 - CNN
-- 
+
 ### DATA PREPOCESSING:
 Data Augmentation with ImageDataGenerator (Keras)
 - batch_size 128 - number of examples used in one iteration of model training
 - one-hot encoding - converts categorical data to a binary matrix
 - grayscale
 
-
 ### REAL TIME TESTING
-OpenCV
+- OpenCV
 
+install main modules package: 
+```
+pip install opencv-python
+```
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/38349049/227548325-5fcabd4e-4ce9-449a-9a14-e6c6eab3b68d.png">
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/38349049/227548310-33d9bdbf-f1d1-48fc-a093-8ae56ec96fac.png">
 
 
 ## RESULTS:
+- accuracy at ~ 66%
 - As for the possible use cases of the emotion recognition problem, the model could be limited to only the best recognized labels, 
 or to a more general division of emotions into categories: positive, neutral or negative.
+- It must be admitted that the results obtained are average, but the experts in the field of machine learning themselves achieved a test accuracy result of only 75.2% on the FER2013 dataset.
 
+## IMPROVEMENT: 
+- Re-cleaning of data before processing: correcting incorrectly assigned labels, deleting photos
+non-human images, and the removal of images that are difficult to classify by both human and machine.
+- Enrichment of filtered FER2013 data with other photos (more demanding).
+- Finding a more suitable model, not necessarily CNN (TO DO)

@@ -7,6 +7,13 @@ Repozytorium obejmuje projekty pochodzące m.in.:
 
 ### Środowisko:
 - *Google Colab*
+- *PyCharm*
 
 ### Biblioteki:
 - *Pandas*
+- *OpenCV*
+- *Tensorflow*
+- *Matplotlib*
+- *Seaborn*
+- *NumPy*
+- *scikit-learn*

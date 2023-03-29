@@ -6,7 +6,7 @@ The repository includes projects:
     * Building a neural networks model in Python that recognizes human emotions. Transferring the model to real time with OpenCV : 
   <a href='https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA'>./image-recognition-projects/emotion-recognition-MA/</a>
 3. from Codecademy course, including : MACHINE LEARNING/AI ENGINEERING
-4. that I solve in my free time
+4. I do in my free time
 
 
 ### Environment:

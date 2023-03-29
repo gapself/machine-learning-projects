@@ -1,11 +1,12 @@
 # Machine Learning Projects
 
 The repository includes projects:
-1. from Master's studies Data Science - PJATK:
-    - Building a neural networks model in Python that recognizes human emotions. Transferring the model to real time with OpenCV : 
+1. from Master's studies - Data Science at Polish-Japanese Academy of Information Technology (PJATK)
+2. from my Master's Thesis:<br>
+        Building a neural networks model in Python that recognizes human emotions. Transferring the model to real time with OpenCV : 
   <a href='https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA'>./image-recognition-projects/emotion-recognition-MA/</a>
-2. from Codecademy course, including : MACHINE LEARNING/AI ENGINEERING
-3. that I solve in my free time
+3. from Codecademy course, including : MACHINE LEARNING/AI ENGINEERING
+4. that I solve in my free time
 
 
 ### Environment:

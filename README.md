@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-The repository includes projects:
+### The repository includes projects:
 1. from Master's studies - Data Science at Polish-Japanese Academy of Information Technology (PJATK)
 2. from my Master's Thesis:<br>
     * Building a neural networks model in Python that recognizes human emotions. Transferring the model to real time with OpenCV : 

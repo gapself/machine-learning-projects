@@ -1,15 +1,16 @@
 # Machine Learning Projects
 
-Repozytorium obejmuje projekty pochodzące m.in.:
-- ze studiów magisterskich Data Science - PJATK, 
-- kursu Codecademy, ścieżka: MACHINE LEARNING/AI ENGINEERING FOUNDATIONS
+The repository includes projects:
+- from Master's studies Data Science - PJATK,
+- Codecademy course, including : MACHINE LEARNING/AI ENGINEERING,
+- projects / tasks that I solve in my free time
 
 
-### Środowisko:
+### Environment:
 - *Google Colab*
 - *PyCharm*
 
-### Biblioteki:
+### Libraries:
 - *Pandas*
 - *OpenCV*
 - *Tensorflow*

@@ -1,4 +1,4 @@
-# Facial Emotion Recognition Using Convolutional Neural Network (CNN)
+## Facial Emotion Recognition Using Convolutional Neural Network (CNN)
 *PL: Rozpoznawanie emocji twarzy z wykorzystaniem konwolucyjnych sieci neuronowych*
 ***
 ### DATASET:

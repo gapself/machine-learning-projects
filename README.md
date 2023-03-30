@@ -8,6 +8,10 @@
 3. from Codecademy course, including : MACHINE LEARNING/AI ENGINEERING
 4. I do in my free time
 
+### Fields:
+- Computer Vision
+- NLP Natural Language Processing
+- Data Analysis (Predictive Analytics)
 
 ### Environment:
 - *Google Colab*

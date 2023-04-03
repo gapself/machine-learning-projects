@@ -1,6 +1,7 @@
 ## Facial Emotion Recognition Using Convolutional Neural Network (CNN)
 *PL: Rozpoznawanie emocji twarzy z wykorzystaniem konwolucyjnych sieci neuronowych*
 ***
+
 ### DATASET:
 FER2013 (ang. Facial Expression Recognition 2013 Dataset)
 
@@ -60,3 +61,7 @@ or to a more general division of emotions into categories: positive, neutral or 
 non-human images, and the removal of images that are difficult to classify by both human and machine.
 - Enrichment of filtered FER2013 data with other photos (more demanding).
 - Finding a more suitable model, not necessarily CNN (TO DO)
+- no more one-hot encoding? https://medium.com/@kaoningyu/dont-use-one-hot-encoding-anymore-25b5882e533f
+
+### INSPIRATIONS:
+😬😬😬 https://hume.ai/products/facial-expression-model

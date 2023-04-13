@@ -1,0 +1,3 @@
+﻿f.airline,COUNT(distinct(a))
+19977,35
+20304,24

@@ -1,0 +1,13 @@
+C:\Users\Gabriela>curl -i http://127.0.0.1:8098/buckets/s23917/keys/P8MZLtTsYf4k5AlhH4xwaeCMfqW
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvvffxfYSIpTImMfK8Fku5BZfFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:36:19 GMT
+ETag: "2pnRANXwllUi80jMR5RTom"
+Date: Fri, 02 Jul 2021 23:36:47 GMT
+Content-Type: application/json
+Content-Length: 7
+
+'{a:b}'

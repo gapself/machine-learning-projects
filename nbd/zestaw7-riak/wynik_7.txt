@@ -1,0 +1,8 @@
+C:\Users\Gabriela>curl -i http://127.0.0.1:8098/buckets/s23917/keys/zuzanna
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 02 Jul 2021 23:36:00 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found

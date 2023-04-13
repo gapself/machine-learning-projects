@@ -1,0 +1,13 @@
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Alicja","surname":Zając,"age":75}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/alicja?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgymDKBVI8Yckst5ymiJcA2YwZTImMeawMKnIht/ig0uezQhOaPv/VgOgAS3eCpLMA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:34:33 GMT
+ETag: "AShFUU63ETUVvJDP0Hf2u"
+Date: Fri, 02 Jul 2021 23:34:33 GMT
+Content-Type: application/json
+Content-Length: 36
+
+'{name:Alicja,surname:Zajc,age:75}'

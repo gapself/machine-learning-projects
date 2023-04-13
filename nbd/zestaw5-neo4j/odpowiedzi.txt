@@ -1,0 +1,36 @@
+#1
+MATCH (m:Movie) RETURN m
+#2
+MATCH (p:Person {name:"Hugo Weaving"})-[r:ACTED_IN]->(m:Movie) RETURN p,r,m
+#3
+MATCH (p:Person {name:"Hugo Weaving"})-[r1:ACTED_IN]->(m:Movie)<-[d:DIRECTED]-(directors) RETURN directors,d,m
+#4
+MATCH (p:Person {name:"Hugo Weaving"})-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(other_actors) RETURN other_actors,m,p
+#5
+MATCH (matrix:Movie)<-[:ACTED_IN]-(p:Person)-[:ACTED_IN]->(other_movies) WHERE matrix.title CONTAINS "The Matrix" RETURN other_movies
+#6
+MATCH (p: Person)-[:ACTED_IN]->(m:Movie) RETURN COUNT(m) AS movies_num ,p
+#7
+MATCH (p:Person)-[:WROTE]->(m:Movie) MATCH (p:Person)-[:DIRECTED]->(m:Movie) RETURN p,m
+#8
+MATCH (k:Person {name:"Keanu Reeves"})-[:ACTED_IN]->(m:Movie)<-[:ACTED_IN]-(h:Person {name:"Hugo Weaving"}) RETURN m
+#9
+
+CREATE (captain:Movie {title:"Captain America: The First Avenger", tagline:"Tutaj jest tagline taki i taki", released:2011})
+
+MERGE (actor1: Person{name:"Chris Evans", born: 1981})
+CREATE (ch)-[:ACTED_IN]->(captain)
+
+MERGE (actor2: Person{name:"Hayley Atwell", born: 1982})
+CREATE (ha)-[:ACTED_IN]->(captain)
+
+MERGE (actor3: Person{name:"Sebastian Stan", born: 1982})
+CREATE (se)-[:ACTED_IN]->(captain)
+
+MERGE (director: Person{name:"Joe Jonston", born: 1946})
+CREATE (to)-[:DIRECTED]->(captain)
+
+MERGE (writer: Person {name:"Christ Markus", born: 1960})
+CREATE (hu)-[:WROTE]->(captain)
+
+RETURN actor1, actor2, actor3, director, writer

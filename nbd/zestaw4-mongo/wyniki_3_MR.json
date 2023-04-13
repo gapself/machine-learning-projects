@@ -1,0 +1,786 @@
+[
+  {
+    "_id" : "Dental Hygienist",
+    "value" : 0
+  },
+  {
+    "_id" : "Engineer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Geologist I",
+    "value" : 0
+  },
+  {
+    "_id" : "Accountant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "VP Sales",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Developer",
+    "value" : 0
+  },
+  {
+    "_id" : "Business Systems Development Analyst",
+    "value" : 0
+  },
+  {
+    "_id" : "Safety Technician III",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Associate",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Engineer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Developer II",
+    "value" : 0
+  },
+  {
+    "_id" : "General Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Media Manager III",
+    "value" : 0
+  },
+  {
+    "_id" : "Cost Accountant",
+    "value" : 0
+  },
+  {
+    "_id" : "Staff Scientist",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Developer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Financial Analyst",
+    "value" : 0
+  },
+  {
+    "_id" : "Technical Writer",
+    "value" : 0
+  },
+  {
+    "_id" : "Administrative Assistant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Actuary",
+    "value" : 0
+  },
+  {
+    "_id" : "Legal Assistant",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Representative III",
+    "value" : 0
+  },
+  {
+    "_id" : "Automation Specialist II",
+    "value" : 0
+  },
+  {
+    "_id" : "Civil Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Nuclear Power Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Help Desk Technician",
+    "value" : 0
+  },
+  {
+    "_id" : "Office Assistant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer Analyst I",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Quality Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Test Engineer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Structural Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Administrative Assistant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Geological Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Office Assistant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Payment Adjustment Coordinator",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Engineer II",
+    "value" : 0
+  },
+  {
+    "_id" : "GIS Technical Architect",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Engineer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Librarian",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Cost Accountant",
+    "value" : 0
+  },
+  {
+    "_id" : "Physical Therapy Assistant",
+    "value" : 0
+  },
+  {
+    "_id" : "Automation Specialist I",
+    "value" : 0
+  },
+  {
+    "_id" : "Safety Technician I",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Sales Associate",
+    "value" : 0
+  },
+  {
+    "_id" : "Budget/Accounting Analyst I",
+    "value" : 0
+  },
+  {
+    "_id" : "VP Product Management",
+    "value" : 0
+  },
+  {
+    "_id" : "Quality Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Chief Design Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "VP Marketing",
+    "value" : 0
+  },
+  {
+    "_id" : "Associate Professor",
+    "value" : 0
+  },
+  {
+    "_id" : "Statistician III",
+    "value" : 0
+  },
+  {
+    "_id" : "Statistician II",
+    "value" : 0
+  },
+  {
+    "_id" : "Engineer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer Analyst III",
+    "value" : 0
+  },
+  {
+    "_id" : "Information Systems Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Developer II",
+    "value" : 0
+  },
+  {
+    "_id" : "Geologist II",
+    "value" : 0
+  },
+  {
+    "_id" : "Engineer II",
+    "value" : 0
+  },
+  {
+    "_id" : "Biostatistician I",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Consultant",
+    "value" : 0
+  },
+  {
+    "_id" : "Quality Control Specialist",
+    "value" : 0
+  },
+  {
+    "_id" : "Community Outreach Specialist",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Designer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Representative IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Assistant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Assistant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Systems Administrator IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Media Manager II",
+    "value" : 0
+  },
+  {
+    "_id" : "Recruiting Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Sales Associate",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Test Engineer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Pharmacist",
+    "value" : 0
+  },
+  {
+    "_id" : "Engineer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Assistant Media Planner",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Assistant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Developer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Biostatistician IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Engineer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Office Assistant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Biostatistician III",
+    "value" : 0
+  },
+  {
+    "_id" : "Developer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Professor",
+    "value" : 0
+  },
+  {
+    "_id" : "Analyst Programmer",
+    "value" : 0
+  },
+  {
+    "_id" : "Marketing Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Accounting Assistant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Teacher",
+    "value" : 0
+  },
+  {
+    "_id" : "Database Administrator I",
+    "value" : 0
+  },
+  {
+    "_id" : "Junior Executive",
+    "value" : 0
+  },
+  {
+    "_id" : "Geologist IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Environmental Specialist",
+    "value" : 0
+  },
+  {
+    "_id" : "Editor",
+    "value" : 0
+  },
+  {
+    "_id" : "Help Desk Operator",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Assistant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Biostatistician II",
+    "value" : 0
+  },
+  {
+    "_id" : "Human Resources Assistant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer I",
+    "value" : 0
+  },
+  {
+    "_id" : "VP Quality Control",
+    "value" : 0
+  },
+  {
+    "_id" : "Paralegal",
+    "value" : 0
+  },
+  {
+    "_id" : "Director of Sales",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Test Engineer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Computer Systems Analyst I",
+    "value" : 0
+  },
+  {
+    "_id" : "Human Resources Assistant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Administrative Assistant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer Analyst II",
+    "value" : 0
+  },
+  {
+    "_id" : "Media Manager IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Executive Secretary",
+    "value" : 0
+  },
+  {
+    "_id" : "Database Administrator IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Administrative Officer",
+    "value" : 0
+  },
+  {
+    "_id" : "Internal Auditor",
+    "value" : 0
+  },
+  {
+    "_id" : "Structural Analysis Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Accountant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Research Nurse",
+    "value" : 0
+  },
+  {
+    "_id" : "Marketing Assistant",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Coordinator",
+    "value" : 0
+  },
+  {
+    "_id" : "Design Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer II",
+    "value" : 0
+  },
+  {
+    "_id" : "Database Administrator II",
+    "value" : 0
+  },
+  {
+    "_id" : "Administrative Assistant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Data Coordiator",
+    "value" : 0
+  },
+  {
+    "_id" : "Accounting Assistant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Environmental Tech",
+    "value" : 0
+  },
+  {
+    "_id" : "Nurse Practicioner",
+    "value" : 0
+  },
+  {
+    "_id" : "Health Coach IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Automation Specialist III",
+    "value" : 0
+  },
+  {
+    "_id" : "Safety Technician IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Statistician I",
+    "value" : 0
+  },
+  {
+    "_id" : "Media Manager I",
+    "value" : 0
+  },
+  {
+    "_id" : "Clinical Specialist",
+    "value" : 0
+  },
+  {
+    "_id" : "Occupational Therapist",
+    "value" : 0
+  },
+  {
+    "_id" : "Desktop Support Technician",
+    "value" : 0
+  },
+  {
+    "_id" : "Staff Accountant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Computer Systems Analyst IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Computer Systems Analyst III",
+    "value" : 0
+  },
+  {
+    "_id" : "Database Administrator III",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer Analyst IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Junior Web Developer",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Designer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Office Assistant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Analog Circuit Design manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Senior Editor",
+    "value" : 0
+  },
+  {
+    "_id" : "Registered Nurse",
+    "value" : 0
+  },
+  {
+    "_id" : "Assistant Professor",
+    "value" : 0
+  },
+  {
+    "_id" : "Recruiter",
+    "value" : 0
+  },
+  {
+    "_id" : "Accountant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Compensation Analyst",
+    "value" : 0
+  },
+  {
+    "_id" : "Mechanical Systems Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Speech Pathologist",
+    "value" : 0
+  },
+  {
+    "_id" : "Electrical Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Accounting Assistant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Developer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Staff Accountant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Operator",
+    "value" : 0
+  },
+  {
+    "_id" : "Staff Accountant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Accounting Assistant I",
+    "value" : 0
+  },
+  {
+    "_id" : "Budget/Accounting Analyst IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Developer I",
+    "value" : 0
+  },
+  {
+    "_id" : "Assistant Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Representative I",
+    "value" : 0
+  },
+  {
+    "_id" : "Systems Administrator III",
+    "value" : 0
+  },
+  {
+    "_id" : "Graphic Designer",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Representative II",
+    "value" : 0
+  },
+  {
+    "_id" : "Geologist III",
+    "value" : 0
+  },
+  {
+    "_id" : "Nurse",
+    "value" : 0
+  },
+  {
+    "_id" : "Safety Technician II",
+    "value" : 0
+  },
+  {
+    "_id" : "Product Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Automation Specialist IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Human Resources Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Programmer IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Systems Administrator II",
+    "value" : 0
+  },
+  {
+    "_id" : "Health Coach II",
+    "value" : 0
+  },
+  {
+    "_id" : "Budget/Accounting Analyst II",
+    "value" : 0
+  },
+  {
+    "_id" : "Computer Systems Analyst II",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Designer II",
+    "value" : 0
+  },
+  {
+    "_id" : "Systems Administrator I",
+    "value" : 0
+  },
+  {
+    "_id" : "Budget/Accounting Analyst III",
+    "value" : 0
+  },
+  {
+    "_id" : "Financial Advisor",
+    "value" : 0
+  },
+  {
+    "_id" : "Social Worker",
+    "value" : 0
+  },
+  {
+    "_id" : "Human Resources Assistant III",
+    "value" : 0
+  },
+  {
+    "_id" : "Accountant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Staff Accountant IV",
+    "value" : 0
+  },
+  {
+    "_id" : "Health Coach III",
+    "value" : 0
+  },
+  {
+    "_id" : "Project Manager",
+    "value" : 0
+  },
+  {
+    "_id" : "Health Coach I",
+    "value" : 0
+  },
+  {
+    "_id" : "Software Test Engineer II",
+    "value" : 0
+  },
+  {
+    "_id" : "Food Chemist",
+    "value" : 0
+  },
+  {
+    "_id" : "Sales Representative",
+    "value" : 0
+  },
+  {
+    "_id" : "Account Executive",
+    "value" : 0
+  },
+  {
+    "_id" : "Human Resources Assistant II",
+    "value" : 0
+  },
+  {
+    "_id" : "Tax Accountant",
+    "value" : 0
+  },
+  {
+    "_id" : "Web Designer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Financial Analyst",
+    "value" : 0
+  },
+  {
+    "_id" : "VP Accounting",
+    "value" : 0
+  },
+  {
+    "_id" : "Chemical Engineer",
+    "value" : 0
+  },
+  {
+    "_id" : "Developer III",
+    "value" : 0
+  },
+  {
+    "_id" : "Statistician IV",
+    "value" : 0
+  }
+]

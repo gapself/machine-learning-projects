@@ -1,0 +1,13 @@
+C:\Users\Gabriela>curl -i http://127.0.0.1:8098/buckets/s23917/keys/anna
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8O3JTv03R4VWECCUy5rEycMiF3OLLAgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:32:24 GMT
+ETag: "5pUJ8KxFVT5qy6kbxndjqb"
+Date: Fri, 02 Jul 2021 23:33:59 GMT
+Content-Type: application/json
+Content-Length: 51
+
+'{name:Anna,surname:Garbej,age:45,isMarried:false}'

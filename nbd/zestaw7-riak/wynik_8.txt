@@ -1,0 +1,8 @@
+C:\Users\Gabriela>curl -i -XPOST -d '{"a":"b"}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys
+HTTP/1.1 201 Created
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Location: /buckets/s23917/keys/P8MZLtTsYf4k5AlhH4xwaeCMfqW
+Date: Fri, 02 Jul 2021 23:36:19 GMT
+Content-Type: application/json
+Content-Length: 0

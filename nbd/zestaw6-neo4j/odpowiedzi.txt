@@ -1,0 +1,44 @@
+# # # CZĘŚĆ 1
+#1
+MATCH path = allShortestPaths((start:town {name:"Darjeeling"}) -[*]-> (end:peak {name:"Sandakphu"})) RETURN path
+#2
+MATCH path = allShortestPaths((start:town {name:"Darjeeling"}) -[*]-> (end:peak {name:"Sandakphu"})) WHERE all (r IN relationships(path) WHERE r.winter="true") RETURN path
+#3
+MATCH path = (start:town {name: "Darjeeling"}) -[*]-> (end:peak {name: "Sandakphu"}) RETURN path, length(path) ORDER BY length(path)
+
+# # # CZĘŚĆ 2
+
+#4
+MATCH (f:Flight)-[:ORIGIN]->(a:Airport) RETURN a, COUNT(f) AS lot ORDER BY lot DESC
+
+#5
+MATCH con = (a:Airport {name:"LAX"})<-[r1:ORIGIN]-(f:Flight)-[r2:ORIGIN|DESTINATION*..10]->(destination:Airport)
+WHERE REDUCE(acc = 0, n IN [x IN NODES(con) WHERE f IN LABELS(x)] |
+  acc + [(n)<-[:ASSIGN]-(ticket) | ticket.price][0]
+  ) < 3000
+RETURN con
+
+#6
+# problem ze zwróceniem wyniku
+MATCH p = (a:Airport {name:"LAX"})<-[r1:ORIGIN]-(f:Flight)-[r2:ORIGIN|DESTINATION*..10]->(destination:Airport {name:"DAY"})
+WITH p, REDUCE(acc = 0, n IN [x IN NODES(p) WHERE f IN LABELS(x)] |
+  acc + [(n)<-[:ASSIGN]-(ticket) | ticket.price][0]
+  ) AS price
+RETURN p, price ORDER BY price DESC
+
+#7
+MATCH p = (lax: Airport {name:"LAX"})-[przelot:PRZELOT*..4]->(day: Airport {name: "DAY"})
+WITH reduce(total=0, przelot in relationships(p) | total + przelot.price) AS kwota, p
+RETURN p ORDER BY kwota LIMIT 1
+
+#8
+MATCH p = (origin:Airport { name:"LAX" })<-[r1:ORIGIN]-(f:Flight)-[r2:ORIGIN|DESTINATION*..10]->(destination:Airport {name: "DAY"})
+WITH p, REDUCE(acc = 0, n IN [x IN NODES(p) WHERE f IN LABELS(x)] |
+  acc + [(n)<-[:ASSIGN]-(ticket {class: 'business'}) | ticket.price][0]
+  ) as price
+RETURN p, price
+ORDER BY price asc LIMIT 1
+
+#9
+MATCH (f:Flight)-[:ORIGIN]->(a:Airport) RETURN f.airline, COUNT(distinct(a)) ORDER BY COUNT(distinct(a)) DESC;
+

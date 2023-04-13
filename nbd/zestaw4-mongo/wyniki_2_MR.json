@@ -1,0 +1,618 @@
+[
+  {
+    "_id" : "JPY",
+    "value" : 2584573
+  },
+  {
+    "_id" : "BBD",
+    "value" : 26718
+  },
+  {
+    "_id" : "AED",
+    "value" : 52968
+  },
+  {
+    "_id" : "GMD",
+    "value" : 157948
+  },
+  {
+    "_id" : "PHP",
+    "value" : 8222596
+  },
+  {
+    "_id" : "SYP",
+    "value" : 501420
+  },
+  {
+    "_id" : "AWG",
+    "value" : 7282
+  },
+  {
+    "_id" : "ZWL",
+    "value" : 142966
+  },
+  {
+    "_id" : "GHS",
+    "value" : 83150
+  },
+  {
+    "_id" : "CUP",
+    "value" : 514360
+  },
+  {
+    "_id" : "CZK",
+    "value" : 2643961
+  },
+  {
+    "_id" : "MUR",
+    "value" : 182112
+  },
+  {
+    "_id" : "SCR",
+    "value" : 14796
+  },
+  {
+    "_id" : "GNF",
+    "value" : 73213
+  },
+  {
+    "_id" : "IRR",
+    "value" : 804320
+  },
+  {
+    "_id" : "KRW",
+    "value" : 433452
+  },
+  {
+    "_id" : "PLN",
+    "value" : 5091665
+  },
+  {
+    "_id" : "VND",
+    "value" : 1395499
+  },
+  {
+    "_id" : "COP",
+    "value" : 1976004
+  },
+  {
+    "_id" : "MZN",
+    "value" : 92059
+  },
+  {
+    "_id" : "BSD",
+    "value" : 55357
+  },
+  {
+    "_id" : "IDR",
+    "value" : 15618249
+  },
+  {
+    "_id" : "HTG",
+    "value" : 215970
+  },
+  {
+    "_id" : "ANG",
+    "value" : 21351
+  },
+  {
+    "_id" : "TOP",
+    "value" : 18422
+  },
+  {
+    "_id" : "BMD",
+    "value" : 5189
+  },
+  {
+    "_id" : "MVR",
+    "value" : 32065
+  },
+  {
+    "_id" : "UZS",
+    "value" : 330280
+  },
+  {
+    "_id" : "HNL",
+    "value" : 817618
+  },
+  {
+    "_id" : "BDT",
+    "value" : 294815
+  },
+  {
+    "_id" : "UGX",
+    "value" : 345168
+  },
+  {
+    "_id" : "NOK",
+    "value" : 760042
+  },
+  {
+    "_id" : "RUB",
+    "value" : 8531628
+  },
+  {
+    "_id" : "CNY",
+    "value" : 27509671
+  },
+  {
+    "_id" : "TTD",
+    "value" : 44041
+  },
+  {
+    "_id" : "BIF",
+    "value" : 45779
+  },
+  {
+    "_id" : "KPW",
+    "value" : 222493
+  },
+  {
+    "_id" : "KHR",
+    "value" : 100440
+  },
+  {
+    "_id" : "KGS",
+    "value" : 176813
+  },
+  {
+    "_id" : "BOB",
+    "value" : 257407
+  },
+  {
+    "_id" : "CHF",
+    "value" : 108929
+  },
+  {
+    "_id" : "TRY",
+    "value" : 18413
+  },
+  {
+    "_id" : "AFN",
+    "value" : 661774
+  },
+  {
+    "_id" : "SAR",
+    "value" : 161692
+  },
+  {
+    "_id" : "NPR",
+    "value" : 146590
+  },
+  {
+    "_id" : "ETB",
+    "value" : 269663
+  },
+  {
+    "_id" : "GBP",
+    "value" : 243490
+  },
+  {
+    "_id" : "ISK",
+    "value" : 39045
+  },
+  {
+    "_id" : "LAK",
+    "value" : 86297
+  },
+  {
+    "_id" : "MRO",
+    "value" : 44466
+  },
+  {
+    "_id" : "BHD",
+    "value" : 22696
+  },
+  {
+    "_id" : "MAD",
+    "value" : 510886
+  },
+  {
+    "_id" : "AUD",
+    "value" : 242640
+  },
+  {
+    "_id" : "WST",
+    "value" : 30737
+  },
+  {
+    "_id" : "KZT",
+    "value" : 584870
+  },
+  {
+    "_id" : "PYG",
+    "value" : 286487
+  },
+  {
+    "_id" : "MYR",
+    "value" : 666469
+  },
+  {
+    "_id" : "AMD",
+    "value" : 602911
+  },
+  {
+    "_id" : "DJF",
+    "value" : 14733
+  },
+  {
+    "_id" : "HUF",
+    "value" : 165174
+  },
+  {
+    "_id" : "BZD",
+    "value" : 24294
+  },
+  {
+    "_id" : "THB",
+    "value" : 2084058
+  },
+  {
+    "_id" : "USD",
+    "value" : 4086362
+  },
+  {
+    "_id" : "DKK",
+    "value" : 222430
+  },
+  {
+    "_id" : "AZN",
+    "value" : 394843
+  },
+  {
+    "_id" : "AOA",
+    "value" : 67576
+  },
+  {
+    "_id" : "SDG",
+    "value" : 127306
+  },
+  {
+    "_id" : "ZMW",
+    "value" : 160926
+  },
+  {
+    "_id" : "XAF",
+    "value" : 736264
+  },
+  {
+    "_id" : "TMT",
+    "value" : 113090
+  },
+  {
+    "_id" : "NAD",
+    "value" : 55414
+  },
+  {
+    "_id" : "CRC",
+    "value" : 334510
+  },
+  {
+    "_id" : "LYD",
+    "value" : 197527
+  },
+  {
+    "_id" : "TND",
+    "value" : 325726
+  },
+  {
+    "_id" : "PAB",
+    "value" : 363607
+  },
+  {
+    "_id" : "ALL",
+    "value" : 651532
+  },
+  {
+    "_id" : "FJD",
+    "value" : 9321
+  },
+  {
+    "_id" : "SRD",
+    "value" : 19684
+  },
+  {
+    "_id" : "SBD",
+    "value" : 9982
+  },
+  {
+    "_id" : "CDF",
+    "value" : 178078
+  },
+  {
+    "_id" : "TJS",
+    "value" : 177387
+  },
+  {
+    "_id" : "DZD",
+    "value" : 12165
+  },
+  {
+    "_id" : "LSL",
+    "value" : 26267
+  },
+  {
+    "_id" : "SEK",
+    "value" : 3705855
+  },
+  {
+    "_id" : "MXN",
+    "value" : 1547515
+  },
+  {
+    "_id" : "MGA",
+    "value" : 377636
+  },
+  {
+    "_id" : "SOS",
+    "value" : 82195
+  },
+  {
+    "_id" : "KYD",
+    "value" : 16808
+  },
+  {
+    "_id" : "LBP",
+    "value" : 43323
+  },
+  {
+    "_id" : "BWP",
+    "value" : 146957
+  },
+  {
+    "_id" : "XCD",
+    "value" : 168137
+  },
+  {
+    "_id" : "ARS",
+    "value" : 2039227
+  },
+  {
+    "_id" : "LRD",
+    "value" : 54879
+  },
+  {
+    "_id" : "CAD",
+    "value" : 1973034
+  },
+  {
+    "_id" : "SZL",
+    "value" : 59109
+  },
+  {
+    "_id" : "XOF",
+    "value" : 933950
+  },
+  {
+    "_id" : "QAR",
+    "value" : 36355
+  },
+  {
+    "_id" : "MMK",
+    "value" : 223261
+  },
+  {
+    "_id" : "PGK",
+    "value" : 61439
+  },
+  {
+    "_id" : "JOD",
+    "value" : 210472
+  },
+  {
+    "_id" : "NZD",
+    "value" : 338418
+  },
+  {
+    "_id" : "GEL",
+    "value" : 157264
+  },
+  {
+    "_id" : "MNT",
+    "value" : 639912
+  },
+  {
+    "_id" : "LKR",
+    "value" : 331894
+  },
+  {
+    "_id" : "NGN",
+    "value" : 1282022
+  },
+  {
+    "_id" : "VUV",
+    "value" : 23187
+  },
+  {
+    "_id" : "FKP",
+    "value" : 5118
+  },
+  {
+    "_id" : "YER",
+    "value" : 583604
+  },
+  {
+    "_id" : "EGP",
+    "value" : 528284
+  },
+  {
+    "_id" : "TZS",
+    "value" : 603797
+  },
+  {
+    "_id" : "ERN",
+    "value" : 21597
+  },
+  {
+    "_id" : "SLL",
+    "value" : 116214
+  },
+  {
+    "_id" : "RSD",
+    "value" : 817324
+  },
+  {
+    "_id" : "SSP",
+    "value" : 42253
+  },
+  {
+    "_id" : "IQD",
+    "value" : 167518
+  },
+  {
+    "_id" : "RWF",
+    "value" : 43294
+  },
+  {
+    "_id" : "BRL",
+    "value" : 5609346
+  },
+  {
+    "_id" : "UYU",
+    "value" : 231977
+  },
+  {
+    "_id" : "KES",
+    "value" : 269770
+  },
+  {
+    "_id" : "VEF",
+    "value" : 628996
+  },
+  {
+    "_id" : "CVE",
+    "value" : 46533
+  },
+  {
+    "_id" : "PEN",
+    "value" : 2356330
+  },
+  {
+    "_id" : "STD",
+    "value" : 4854
+  },
+  {
+    "_id" : "BTN",
+    "value" : 37708
+  },
+  {
+    "_id" : "BGN",
+    "value" : 496589
+  },
+  {
+    "_id" : "MDL",
+    "value" : 173307
+  },
+  {
+    "_id" : "GYD",
+    "value" : 13052
+  },
+  {
+    "_id" : "RON",
+    "value" : 11557
+  },
+  {
+    "_id" : "LTL",
+    "value" : 220607
+  },
+  {
+    "_id" : "KMF",
+    "value" : 137991
+  },
+  {
+    "_id" : "SGD",
+    "value" : 12819
+  },
+  {
+    "_id" : "NIO",
+    "value" : 240644
+  },
+  {
+    "_id" : "BYR",
+    "value" : 686417
+  },
+  {
+    "_id" : "XPF",
+    "value" : 132915
+  },
+  {
+    "_id" : "UAH",
+    "value" : 2505608
+  },
+  {
+    "_id" : "BAM",
+    "value" : 415929
+  },
+  {
+    "_id" : "CLP",
+    "value" : 388583
+  },
+  {
+    "_id" : "ZAR",
+    "value" : 932373
+  },
+  {
+    "_id" : "MOP",
+    "value" : 5337
+  },
+  {
+    "_id" : "MKD",
+    "value" : 436871
+  },
+  {
+    "_id" : "HRK",
+    "value" : 689338
+  },
+  {
+    "_id" : "HKD",
+    "value" : 23022
+  },
+  {
+    "_id" : "MWK",
+    "value" : 88100
+  },
+  {
+    "_id" : "OMR",
+    "value" : 86999
+  },
+  {
+    "_id" : "PKR",
+    "value" : 687698
+  },
+  {
+    "_id" : "GTQ",
+    "value" : 588306
+  },
+  {
+    "_id" : "EUR",
+    "value" : 16698430
+  },
+  {
+    "_id" : "JMD",
+    "value" : 201430
+  },
+  {
+    "_id" : "DOP",
+    "value" : 534016
+  },
+  {
+    "_id" : "INR",
+    "value" : 24171
+  },
+  {
+    "_id" : "TWD",
+    "value" : 37650
+  },
+  {
+    "_id" : "ILS",
+    "value" : 758729
+  },
+  {
+    "_id" : "BND",
+    "value" : 7782
+  },
+  {
+    "_id" : "KWD",
+    "value" : 82498
+  }
+]

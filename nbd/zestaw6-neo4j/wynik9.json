@@ -1,0 +1,10 @@
+﻿[
+  {
+    "f.airline": "19977",
+    "COUNT(distinct(a))": 35
+  },
+  {
+    "f.airline": "20304",
+    "COUNT(distinct(a))": 24
+  }
+]

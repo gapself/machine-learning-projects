@@ -1,0 +1,7 @@
+C:\Users\Gabriela>curl -i -XDELETE http://localhost:8098/buckets/s23917/keys/P8MZLtTsYf4k5AlhH4xwaeCMfqW
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Fri, 02 Jul 2021 23:37:03 GMT
+Content-Type: application/json
+Content-Length: 0

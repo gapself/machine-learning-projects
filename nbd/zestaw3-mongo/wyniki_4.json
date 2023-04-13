@@ -1,0 +1,9118 @@
+[
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636e3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636ea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636ed"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636f2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636f3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636f6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636f7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636fa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636fc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6636fe"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663703"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663707"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663708"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66370e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663716"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663718"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66371b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663728"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66372c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66372e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663730"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663737"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663739"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66373a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663741"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663742"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663747"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663749"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66374f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66375a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66375b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663760"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66376c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66376d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66376e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66376f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663771"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663772"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663776"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66377c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66377f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663784"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66378c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663799"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66379b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66379d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637a1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637a7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637b2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637b6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637b9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637bc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637be"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637c0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637c9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637cb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637ce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637d5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637d6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637da"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637de"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637e0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637e6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637f7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6637fd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66380d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66380f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663815"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663818"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663819"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66381c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663825"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663829"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66382d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663837"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663839"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66383c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66383d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663843"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66384a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66384d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663854"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66385e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66385f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663864"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663865"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663869"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663877"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663879"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66387a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66387e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663881"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663882"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663883"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663887"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663889"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66388c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66388e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66388f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663890"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663891"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663893"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663895"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66389a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638a0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638a3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638a6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638a7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638b1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638b2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638ba"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638bd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638c1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638c4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638c8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638ce"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638cf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638da"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638db"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638e2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638e3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638e5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638e7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638ec"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638f8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638fd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6638ff"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663901"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663903"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663910"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663915"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663924"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663928"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66392c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66392d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663932"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663933"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663938"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66393c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66393e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663942"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663944"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663949"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663950"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663956"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66395a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66395d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66395f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663961"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663962"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663963"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663971"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663974"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663987"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663989"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663996"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66399f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639a0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639a3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639ab"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639ae"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639af"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639b2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639b5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639bb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639c1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639cb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639cc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639d0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639d8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639e3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639e4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639e6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639eb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639ed"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639f4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639f5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6639f6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a04"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a09"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a0f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a19"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a1e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a1f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a23"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a27"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a2b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a2d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a30"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a36"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a3c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a46"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a4e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a53"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a5c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a60"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a65"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a6b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a70"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a76"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a78"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a7a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a7b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a7e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a80"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a81"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a83"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a84"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a87"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a8e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a94"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a96"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a98"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a9a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a9d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663a9e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663aa9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663abc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ac0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ac6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ace"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ad0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ad3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ada"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ae0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ae2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ae3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663aed"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663af2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663af3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663af7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663afd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b00"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b02"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b04"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b10"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b11"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b18"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b1a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b21"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b24"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b27"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b2a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b2d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b2f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b30"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b31"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b42"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b44"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b48"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b4a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b4b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b4c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b52"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b54"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b57"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b5a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b5c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b65"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b6a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b6c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b74"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b7a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b81"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b89"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b9c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663b9e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ba1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ba2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ba3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ba5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663baa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bae"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bb3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bb5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bb8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bba"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bbf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bc2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bc7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bca"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bcd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bcf"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bd3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bd5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bdc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bea"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bf3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bf4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bfd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663bfe"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c00"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c05"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c08"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c0b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c0e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c15"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c16"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c19"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c1b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c1c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c1f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c2f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c31"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c33"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c34"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c36"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c42"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c45"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c47"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c50"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c52"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c55"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c64"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c65"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c66"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c70"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c75"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c78"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c79"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c83"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c84"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c8c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c90"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c92"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c99"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c9b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663c9f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ca4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ca6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cab"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cad"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cb0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cbd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cbe"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cc4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cc7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cc8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ccf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cd5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cd8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cda"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cdb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cde"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cdf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ce3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ce7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cec"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ced"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cf1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cf3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cf6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663cfb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d02"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d03"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d0a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d0d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d10"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d12"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d13"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d14"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d1a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d2d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d32"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d33"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d35"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d39"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d3b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d3f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d41"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d49"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d4c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d56"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d59"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d61"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d62"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d6c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d6d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d7b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d7c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d82"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d84"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d86"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d8d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d92"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d95"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663d96"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dab"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663db6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dbb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dc4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dc9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dd1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dd9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ddb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ddc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dde"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663de5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dea"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663deb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663dfe"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e01"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e03"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e06"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e09"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e0c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e0e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e0f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e12"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e1a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e22"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e24"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e25"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e27"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e29"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e2a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e30"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e35"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e36"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e37"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e3e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e3f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e41"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e42"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e49"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e56"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e57"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e58"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e59"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e5b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e5c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e61"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e69"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e6b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e6c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e6d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e71"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e73"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e74"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e7b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e7e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e7f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e80"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e81"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e85"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e89"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e8c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e8f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e93"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e95"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663e9d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ea1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ea6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ea9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eaa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eaf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eb2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eb4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eb9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ebc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ec0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ec7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ece"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ecf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ed0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ed1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ed5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ed7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ee0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663eec"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ef0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ef9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663efd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f00"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f05"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f0b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f0e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f15"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f1d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f1e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f1f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f22"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f26"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f2e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f2f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f33"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f3a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f3f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f42"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f43"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f44"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f45"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f47"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f4f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f55"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f57"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f59"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f5d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f75"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f7c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f82"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f83"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f84"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f89"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f8a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f8f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663f93"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fa9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663faa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fab"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fae"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fb9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fbb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fbe"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fc7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fc9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fcc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fd2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fde"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fe8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663feb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663fef"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ff3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ff4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ff7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ffc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ffd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c663ffe"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664002"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664009"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66400c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664011"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66401a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66401d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664020"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664023"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664024"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664037"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664038"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664039"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664041"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664043"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664048"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664049"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66404c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664050"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664064"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664068"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66406b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66406e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664071"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664072"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664077"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66407a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66407c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66407d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664080"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664081"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66408a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664092"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664094"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664097"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664098"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66409a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640a9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640ad"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640b4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640b6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640c0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640c1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640cb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640d2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640db"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640dc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640e1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640e2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640e3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640eb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640ec"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640ed"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6640f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664104"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664106"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664109"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66410a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66410f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664112"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664119"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66411c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664124"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66412c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66412e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664133"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664134"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66413a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66414f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664155"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664158"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66415b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664163"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664164"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664165"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664176"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66417c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664180"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664182"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66418b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664191"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664193"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664194"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664195"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664199"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66419f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641a0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641a4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641a5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641a6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641ad"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641b9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641bd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641c7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641cb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641ce"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641d0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641d1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641e1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641e2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641f2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641f6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641f7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641f9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6641fa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664204"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66420f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664211"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664219"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66421e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66421f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664221"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664222"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664223"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664224"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664229"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66422a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664235"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66423e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664241"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664247"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66424e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664252"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664257"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664259"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66425a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66425c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664260"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664264"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664266"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664279"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66427a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664283"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664284"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664285"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664295"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664298"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66429b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66429e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642a0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642a5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642a8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ac"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ae"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642b3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642b9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ba"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642c0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642c1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642c7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642cc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642cd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ce"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642db"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642dc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642df"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642e2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642e4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642e5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ee"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642f0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642f4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642f8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642f9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6642ff"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664300"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664301"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664305"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664306"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66430b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66430d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66430f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66431e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664320"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664321"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664326"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664329"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66432b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664332"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66433a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664346"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664349"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664352"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664354"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664358"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664359"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66435d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664363"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664367"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664368"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664369"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66436a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66436d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664371"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664375"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664376"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66437a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664381"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664382"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664384"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664385"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664386"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66438a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66438c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66438e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664391"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664394"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664398"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66439f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643a1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ad"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643b0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643b5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643b7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643b9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ba"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643c2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643c5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643c9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ca"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643cb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643cc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643cd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643cf"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643d4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643d6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643dd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643df"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643e0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ed"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6643ff"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664401"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664403"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664405"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66440a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664412"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664415"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66441d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66441e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66441f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66442b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66442e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66442f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664434"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664441"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664444"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664446"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664447"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664449"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664456"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66445e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664460"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664463"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664464"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664469"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66446a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66446e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664473"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664478"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664479"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664481"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664486"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66448a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66448d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66448f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664499"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66449b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644a1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644a4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644a9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644b0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644b3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644b6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644b7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644bb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644c4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644c7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644d0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644d3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644d6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644e5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644e6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644ea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644ed"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6644fd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664507"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664510"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664513"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664514"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66451b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66451f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664524"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664525"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66452d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664530"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664537"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664538"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664539"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664542"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664543"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664547"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66454a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66454b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66454e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664554"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664557"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664559"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66455d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664560"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664561"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664568"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66456a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66456c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66456e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664570"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664571"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664575"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664578"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66457b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66457d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66457f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664586"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664588"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66458b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664596"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66459e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645a3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645a5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645ad"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645b5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645b9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645bb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645bf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645c7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645c9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645cc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645d2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645d4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645dc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645e9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645ec"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645ed"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645f2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645f6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6645fb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664601"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664608"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664609"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664610"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664615"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664617"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664618"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66461a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66461d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664626"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664627"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66462c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66462f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664632"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664635"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664636"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66463b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66463e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66463f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664640"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664645"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664646"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66464d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664651"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664653"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664654"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664656"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664659"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66465e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66465f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664661"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664666"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66466c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664672"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664676"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66467b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66467d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664685"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664686"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66468b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66468e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66468f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66469f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646a0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646a2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646a6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646aa"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646ae"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646b0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646be"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646c2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646c3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646c4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646c6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646c7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646ca"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646d4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646d7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646d8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646df"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646e0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646e2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646e6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646e7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646e9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646ed"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646f2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646f5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6646f9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664701"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664703"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664708"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66470b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66470c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66470f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664711"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664712"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664715"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664719"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664722"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664724"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664725"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664728"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664730"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664735"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664738"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66473d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66473e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664747"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664754"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66475a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66475c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66475e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664760"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664762"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66476a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66476f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664779"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66477d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66477f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664784"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664787"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66478c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664791"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664793"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664795"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664797"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66479a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66479d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647a2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647a4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647a6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647bf"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647c0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647c3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647c4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647c5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647c8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647cd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647cf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647d3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647d8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647d9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647e2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647ef"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647f3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6647f9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664803"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664807"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66480e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66480f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664813"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664815"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66481b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66481d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66481e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66481f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664822"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664825"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664828"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664836"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664837"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664838"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664841"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664846"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66484b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664854"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664855"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664858"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664859"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66485a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66485b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66486c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66486d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664870"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664875"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664883"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66488d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664892"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66489a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66489c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66489d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648a6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648ab"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648b0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648b1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648b3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648b5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648bd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648c5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648cf"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648d5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648d7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648da"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648de"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648df"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648e1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648e5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648ee"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648f3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648f9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648fc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648fd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6648ff"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664903"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66490a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664910"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664912"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664916"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66491a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66491e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664926"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664927"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66492f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664932"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664935"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66493d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664940"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664943"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664947"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66494c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66494d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664953"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664955"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664957"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66495b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664966"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664969"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664970"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664974"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66497a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66497e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664980"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664981"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664986"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66498b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664991"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664993"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664994"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66499c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649a0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649a2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649a4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649a6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649ab"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649b1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649b7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649b8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649ba"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649be"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649c2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649c5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649c6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649cc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649cf"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649d0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649d4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649d5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649e7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649ec"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649f2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649f3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6649f4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a01"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a09"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a11"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a1a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a1d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a20"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a25"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a27"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a29"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a2a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a2b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a2e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a33"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a34"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a3b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a3f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a42"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a46"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a4b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a58"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a75"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a7a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a7b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a80"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a88"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a8b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a93"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a99"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664a9c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664aa3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664aad"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ab1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664abf"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664aca"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664acd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ace"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ad1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664adb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664adc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ade"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ae0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ae3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ae5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664aea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664af3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664af7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664af9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b0c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b15"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b17"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b19"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b1a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b1c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b1d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b25"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b28"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b2c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b2e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b35"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b3a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b3c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b40"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b43"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b4a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b4e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b51"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b61"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b62"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b69"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b74"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b75"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b83"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b85"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b95"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b97"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664b9e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ba3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ba4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ba7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ba9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664baf"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bb3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bb9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bc1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bc2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bc3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bc9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bcf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bd2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bda"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bdd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664be0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664be9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bee"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bf5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bf8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bfc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664bff"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c03"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c06"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c08"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c0f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c14"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c16"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c1f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c24"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c2a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c2e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c37"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c3b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c3c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c3d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c3e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c42"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c49"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c60"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c64"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c68"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c6b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c6e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c71"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c76"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c7d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c7e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c80"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c83"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c86"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c89"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c8a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c8c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c8d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c92"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c93"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c94"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c98"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c9a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c9b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664c9c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ca4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cae"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cb1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cb2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cb5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cbc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cbe"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cc1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cc2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cc3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cc7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cc8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cca"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ccc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ccd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cd3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cd8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cd9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cdd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ce1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ce6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ce9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ced"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cef"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cfe"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664cff"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d01"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d0d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d15"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d1a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d1c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d22"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d27"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d2a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d31"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d34"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d3a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d3c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d40"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d41"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d42"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d44"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d4b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d4e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d51"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d57"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d5a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d5f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d61"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d68"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d6c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d6f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d73"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d77"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d78"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d7a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d87"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d8b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d93"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d95"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d97"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d9d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664d9f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664da0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664da2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664da5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664da9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664daa"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664db0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664db1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664db5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dc3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dc8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dcb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dd0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dd6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dd8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ddd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dde"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664de2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664de4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664de7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dea"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664deb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664df0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664df8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664dfc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e04"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e05"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e08"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e0a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e0c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e10"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e12"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e16"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e18"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e19"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e1b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e1e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e21"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e25"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e26"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e28"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e2a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e36"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e39"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e40"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e52"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e5a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e5f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e60"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e66"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e69"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e6d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e6e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e70"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e76"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e7a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e7d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e7f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e85"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e86"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e8c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e8f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e92"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e94"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e96"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664e9b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ea0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ea4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ea8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eaa"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eab"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eae"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eb1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eb3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eb6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eb8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ebb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ebc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ebf"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ec0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ed4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ee2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ee4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ee6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ee7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ef3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ef6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ef7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664efb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664eff"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f02"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f03"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f04"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f12"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f1c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f1d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f26"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f2b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f2e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f37"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f3c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f42"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f45"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f46"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f49"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f4b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f53"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f58"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f5a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f5d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f60"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f74"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f75"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f79"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f8c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f8f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664f9c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fa1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fa3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fac"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fb2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fb7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fbf"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fc0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fc1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fc5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fdb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fe7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fe9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664fea"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ff2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ff3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ffa"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c664ffb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665000"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665004"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66500c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665011"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665017"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66501c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66501d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665020"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665025"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665028"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665038"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665039"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66503a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66503d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66503e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665043"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665044"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665047"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66504a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66504b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66504f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665050"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665052"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665055"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665057"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66505b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665060"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665062"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665067"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66506a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66506b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66506e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66507b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66507c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66507f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665086"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665090"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665097"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650a3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650a5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650b3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650b4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650b5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650b6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650bc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650c0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650d0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650d1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650d4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650d7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650dc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650df"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650e2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650e6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650eb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650ed"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650f1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650f2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650f5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6650f7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665100"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665104"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665106"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66510d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665111"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665112"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665115"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66511c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665120"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665122"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665125"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665127"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66512f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665130"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665131"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665136"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665137"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665139"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66513c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665145"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665147"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66514e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66514f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665154"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665156"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665159"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665162"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665165"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665166"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665171"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66517f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665180"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66518a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66518c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665191"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66519c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651a6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651a8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651aa"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651ac"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651ad"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651b3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651b6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651bd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651c2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651c8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651c9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651d1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651d3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651d5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651d9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651de"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651e0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651e2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651e3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651ea"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651f1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651f2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651f7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651fc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6651ff"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665202"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665204"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665206"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665207"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665208"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665209"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66520c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665214"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665218"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665219"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665224"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665227"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665232"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665234"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665239"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66523c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665242"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665244"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665245"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665248"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66524b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66524c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665253"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665255"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665258"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66525f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665261"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665267"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66526c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66526f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665273"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665277"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66527f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665281"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66528a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66528b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66528d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665299"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66529a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66529c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66529d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66529f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652a1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652a7"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652af"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652b5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652b6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652c1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652c2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652c3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652c9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652cc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652d0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652d3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652d5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652dc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652de"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652e1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652e3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652e8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652eb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652ec"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652f5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652f6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6652fb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665302"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665305"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665310"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665317"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66531c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66531d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665321"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665324"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665328"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665331"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665336"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665338"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66533d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665346"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665348"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665351"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665352"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665356"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665362"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66536b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665374"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665375"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66537b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66537c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665387"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66538a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66538b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66538c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665396"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665398"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66539c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66539f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653a3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653a5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653a7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653a8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653a9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653be"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653c6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653c9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653ca"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653cb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653d0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653d2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653d3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653d7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653dd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653de"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653ed"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653f4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6653f5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66540c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66540e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665416"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665418"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665419"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66541b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66541f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665424"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665426"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665427"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665428"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665429"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66542a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665434"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665438"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665439"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66543b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66543d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66543e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665440"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665441"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665443"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665444"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665453"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665455"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665459"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665460"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665463"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66546e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665475"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66547b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66547e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66547f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665485"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665489"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66548e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665492"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665493"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654a0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654a4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654a5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ab"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ac"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ae"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654b3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ba"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654bc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654bd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654c4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654cc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654e6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654e9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654ea"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654f1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654fc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6654fd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665500"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665501"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66550a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665519"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66551d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665521"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665524"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665526"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66552a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66552b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665534"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665540"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665548"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665549"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665550"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66555a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665561"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665565"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665568"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66556b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66556d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665575"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66557b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66557d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66557e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665583"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66558a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66558e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665590"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665596"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665597"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66559a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66559f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655a3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655ac"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655ad"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655c9"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655d1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655d5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655df"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655eb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655f0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655f1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655fe"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6655ff"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665601"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665604"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665606"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66560b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66560c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665612"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665614"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665619"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665621"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665622"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665628"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66562d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66562e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665633"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66563a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66563e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665641"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665642"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66564c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66564d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66564f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665650"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66565a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66565f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665664"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665665"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665672"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665679"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66567b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665680"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665693"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665697"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665699"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66569b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66569c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66569e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656a2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ac"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ad"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ae"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656af"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656b2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656b8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656c0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656c1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656c2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656c5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ca"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ce"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656d9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656e4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ec"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ed"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656ef"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6656fd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665700"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665707"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665709"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66570a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66570d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665710"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665716"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66571c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66571e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665722"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665727"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66572b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66572c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66572d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66572e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66573a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66573e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665740"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665741"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665748"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66574e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665751"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665754"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665757"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665759"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66575b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66575e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665760"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665762"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665764"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665766"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66576a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66576d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665773"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66577b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66577d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665796"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66579d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657a0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657a3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657b0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657b1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657ba"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657c1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657c3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657cc"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657cd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657ce"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657de"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657e3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657eb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6657f4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665801"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665808"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66580b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66580c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66580e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665811"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665817"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665819"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66581a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66581e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665820"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665828"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66582a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66582b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66582c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665834"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665837"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665838"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66583a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665846"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665849"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66584f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66585f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665862"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665863"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665864"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665865"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665866"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665869"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66586b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665871"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665874"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665875"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665876"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66587a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66587d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66587f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665884"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665888"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66588e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66588f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665890"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665891"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665893"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66589a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66589d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66589e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66589f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658a0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658a5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658a6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658b1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658b5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658b6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658c3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658c9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658ca"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658cc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658cf"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658d0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658d8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658db"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658df"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658e1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658e4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658e6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658ea"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658eb"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658ed"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658ef"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658f3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6658f4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665902"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665903"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665909"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66590b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665910"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665917"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665919"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665923"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665929"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66592f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665936"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66593e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665943"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665944"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665945"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66594c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665950"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665959"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66595f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66596d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665975"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66597a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665980"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665981"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66598b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665996"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c66599c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659a2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659a3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659a9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659ac"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659af"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659b2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659b7"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659b8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659b9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659bd"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659c0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659c4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659c6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659cd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659d2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659d4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659d6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659dd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659de"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659e1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659e7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659ec"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659ef"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659f6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659f9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c6659fe"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a02"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a03"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a07"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a08"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a09"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a0c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a0d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a10"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a11"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a1a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a25"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a27"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a29"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a31"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a3c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a3f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a46"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a49"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a4f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a51"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a52"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a55"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a56"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a58"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a62"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a64"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a67"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a6a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a71"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a77"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a78"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a79"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a7b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a81"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a86"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a8a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a94"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a9a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a9b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665a9f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665aa4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665aa6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665aab"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ab2"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ab9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ac1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ac3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ac4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ac5"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ac6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665aca"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ace"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ad3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ad6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ada"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665adb"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665adc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ae1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ae4"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ae9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665aef"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665af1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665af7"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665af8"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b00"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b02"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b08"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b09"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b0e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b11"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b14"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b15"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b16"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b19"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b1d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b21"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b22"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b23"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b25"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b29"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b2b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b2d"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b30"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b31"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b33"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b36"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b39"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b3b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b3d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b42"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b50"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b52"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b58"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b5b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b61"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b62"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b6e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b70"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b78"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b79"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b7b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b7c"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b7e"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b83"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b84"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b8c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b8e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b8f"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b95"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b99"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b9c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665b9f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ba0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ba1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ba9"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665baa"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bad"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bae"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bb1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bb5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bb6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bc5"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bd2"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bd6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bdc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665be3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665be4"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665be6"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665be8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bf0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bf1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bf2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bf3"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bf6"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665bfd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c06"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c0e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c12"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c15"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c1a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c1e"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c20"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c21"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c24"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c2f"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c36"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c38"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c3a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c3d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c42"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c43"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c49"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c4c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c4d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c4e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c55"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c57"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c5c"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c63"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c64"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c66"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c6b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c6e"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c71"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c73"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c75"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c76"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c81"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c87"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c8b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c8c"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665c9a"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ca3"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cb0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cb1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cbc"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cbd"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cc2"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ccd"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cd0"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ce0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ce1"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ce4"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ce5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665ce8"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cf6"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cf9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cfb"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cfc"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665cfe"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d02"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d06"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d08"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d0b"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d0d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d10"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d13"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d1f"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d21"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d2d"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d31"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d33"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d39"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d3a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d47"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d48"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d49"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d4b"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d4d"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d57"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d60"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d62"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d6b"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d70"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d71"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d76"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d77"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d79"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d7a"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d80"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d8a"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d91"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d92"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665d96"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665da0"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665da5"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665db0"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665db3"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665db8"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665db9"),
+    "weight" : 69
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665dc1"),
+    "weight" : 70
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665dca"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665dcf"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665dd1"),
+    "weight" : 71
+  },
+  {
+    "_id" : ObjectId("60d94d16eae40e3c2c665dd3"),
+    "weight" : 69
+  }
+]

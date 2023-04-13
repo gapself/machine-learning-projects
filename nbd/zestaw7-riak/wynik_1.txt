@@ -1,0 +1,69 @@
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Anna","surname":Garbej,"age":45,"isMarried":false}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/anna?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8O3JTv03R4VWECCUy5rEycMiF3OLLAgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:32:24 GMT
+ETag: "5pUJ8KxFVT5qy6kbxndjqb"
+Date: Fri, 02 Jul 2021 23:32:24 GMT
+Content-Type: application/json
+Content-Length: 51
+
+'{name:Anna,surname:Garbej,age:45,isMarried:false}'
+
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Alicja","surname":Zając,"age":75,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/alicja?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8Yckst5ymiJdAhBIZ81gZVORCbvFlAQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:32:52 GMT
+ETag: "d2XcsCMsBy2QpxlRBRFFR"
+Date: Fri, 02 Jul 2021 23:32:52 GMT
+Content-Type: application/json
+Content-Length: 51
+
+'{name:Alicja,surname:Zajc,age:75,isMarried:true}'
+
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Krystian","surname":Słuchowski,"age":34,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/krystian?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8O3JTv01R+q8KZDNlMCUy5rEymMqF3OLLAgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:33:09 GMT
+ETag: "6OFSpUhjwU8OMJak1u0O7u"
+Date: Fri, 02 Jul 2021 23:33:09 GMT
+Content-Type: application/json
+Content-Length: 58
+
+'{name:Krystian,surname:Suchowski,age:34,isMarried:true}'
+
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Mateusz","surname":Królik,"age":88,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/mateusz?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI857NCE5r+HXGACCUy5rEyuMqF3OLLAgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:33:25 GMT
+ETag: "16IndaERMALpyGMFtVuJCg"
+Date: Fri, 02 Jul 2021 23:33:25 GMT
+Content-Type: application/json
+Content-Length: 53
+
+'{name:Mateusz,surname:Krlik,age:88,isMarried:true}'
+
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Jan","Pakleza":Kowalski,"age":45,"isMarried":false}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/jan?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8O3JTv01R+icEEUpkzGNlCJULucWXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:33:41 GMT
+ETag: "2UfzqeyqQETbZSYniNTeyj"
+Date: Fri, 02 Jul 2021 23:33:41 GMT
+Content-Type: application/json
+Content-Length: 52
+
+'{name:Jan,Pakleza:Kowalski,age:45,isMarried:false}'

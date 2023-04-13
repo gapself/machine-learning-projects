@@ -1,0 +1,13 @@
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Anna","surname":Garbej,"age":45,"isMarried":false,"isSad":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/anna?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgymDKBVI8O3JTv03R4VUEshkzmBIZ81gZOORCbvFBpc9nhSY0s9R8h+gAS1eApLMA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:34:16 GMT
+ETag: "7fTnH5hTgoWqiGDqQ70pCB"
+Date: Fri, 02 Jul 2021 23:34:16 GMT
+Content-Type: application/json
+Content-Length: 62
+
+'{name:Anna,surname:Garbej,age:45,isMarried:false,isSad:true}'

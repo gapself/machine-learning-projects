@@ -1,0 +1,35 @@
+#1
+curl -i -XPUT -d '{"name":"Anna","surname":Garbej,"age":45,"isMarried":false}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/anna?returnbody=true
+curl -i -XPUT -d '{"name":"Alicja","surname":Zając,"age":75,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/alicja?returnbody=true
+curl -i -XPUT -d '{"name":"Krystian","surname":Słuchowski,"age":34,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/krystian?returnbody=true
+curl -i -XPUT -d '{"name":"Mateusz","surname":Królik,"age":88,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/mateusz?returnbody=true
+curl -i -XPUT -d '{"name":"Jan","Pakleza":Kowalski,"age":45,"isMarried":false}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/jan?returnbody=true
+
+#2
+curl -i http://127.0.0.1:8098/buckets/s23917/keys/anna
+
+#3
+curl -i -XPUT -d '{"name":"Anna","surname":Garbej,"age":45,"isMarried":false,"isSad":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/anna?returnbody=true
+
+#4
+curl -i -XPUT -d '{"name":"Alicja","surname":Zając,"age":75}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/alicja?returnbody=true
+
+#5
+curl -i -XPUT -d '{"name":"Jan","Pakleza":Kowalski,"age":45,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/jan?returnbody=true
+
+#6
+curl -i -XDELETE http://localhost:8098/buckets/s23917/keys/mateusz
+
+#7
+curl -i http://127.0.0.1:8098/buckets/s23917/keys/zuzanna
+
+#8
+curl -i -XPOST -d '{"a":"b"}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys
+
+#9
+curl -i http://127.0.0.1:8098/buckets/s23917/keys/P8MZLtTsYf4k5AlhH4xwaeCMfqW
+
+#10
+curl -i -XDELETE http://localhost:8098/buckets/s23917/keys/P8MZLtTsYf4k5AlhH4xwaeCMfqW
+
+

@@ -1,0 +1,13 @@
+C:\Users\Gabriela>curl -i -XPUT -d '{"name":"Jan","Pakleza":Kowalski,"age":45,"isMarried":true}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s23917/keys/jan?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgymDKBVI8O3JTv01R+icEZDNmMCUy5rEyhMqF3OKDSiummPiEqjW+hugAS08HSWcBAA==
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23917>; rel="up"
+Last-Modified: Fri, 02 Jul 2021 23:34:47 GMT
+ETag: "6m7SWedvF2Si8WJHpDdxJh"
+Date: Fri, 02 Jul 2021 23:34:47 GMT
+Content-Type: application/json
+Content-Length: 51
+
+'{name:Jan,Pakleza:Kowalski,age:45,isMarried:true}'

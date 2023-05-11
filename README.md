@@ -4,37 +4,49 @@
 
 </div>
 
-## The repository includes projects:
-1. from my Master's studies: Data Science (Computer Science) at Polish-Japanese Academy of Information Technology (PJATK)<br>
+<div align=left> 
 
-<div align = center> 
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition CNN, OpenCV
 
-&emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Master's Thesis: building a CNN model that recognizes human emotions & transferring it to real time with OpenCV 
+[![Button Click MS]][Link MS] 
+  
+</div>
 
+<div align = left> 
+  
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/f957ff?style=square&size=15'/> Breast cancer detection KNN, SGD, SVC, MLP, Gaussian
 
-[![Button Click]][Link] 
+[![Button Click breastcancer]][Link breastcancer] 
 
 </div>
 
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/7247ff?style=square&size=15'/> Twitter sentiment analysis Word2Vec, KMeans
+
+[![Button Click twitter]][Link twitter]
+  
+</div>
+
+& more
+
 <!---------------------------------------------------------------------------->
-
-[Button Click]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30
-[Link]: https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA
-
-
-2. from Codecademy path MACHINE LEARNING/AI ENGINEERING
-3. I do in my free time
-
+[Button Click MS]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30
+[Link MS]: https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA
+[Button Click breastcancer]: https://img.shields.io/badge/Click_Here_To_See_This_Project-f957ff?style=for-the-badge&height=30
+[Link breastcancer]: https://github.com/gapself/machine-learning-projects/blob/main/breast_cancer_classifiers.ipynb
+[Button Click twitter]: https://img.shields.io/badge/Click_Here_To_See_This_Project-7247ff?style=for-the-badge&height=30
+[Link twitter]: https://github.com/gapself/machine-learning-projects/blob/main/natural-language-processing-projects/covid_twitter_preprocessing.ipynb
 
 <br>
 <!---------------------------------------------------------------------------->
 
-## Fields:
+<!-- ## Fields:
 <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/E0FF33?style=circle&size=10'/> Computer Vision <br>
 <img valign='middle' alt='pink' src='https://readme-swatches.vercel.app/FF3364?style=circle&size=10'/> NLP Natural Language Processing <br>
 <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/33FF93?style=circle&size=10'/> Data Analysis (Predictive Analytics) <br>
 <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/E0AAFF?style=circle&size=10'/> Machine Learning Algorithms <br>
-&emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/C77DFF?style=circle&size=10'/> Supervised Learning I : Regressors, Classifiers and Trees
+&emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/C77DFF?style=circle&size=10'/> Supervised Learning I : Regressors, Classifiers and Trees<br> -->
 
 <br>
 

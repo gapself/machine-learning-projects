@@ -4,6 +4,9 @@
 
 </div>
 
+
+<!---------------------------------------------------------------------------->
+
 <div align=left> 
 
 &emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition CNN, OpenCV
@@ -11,6 +14,7 @@
 [![Button Click MS]][Link MS] 
   
 </div>
+<!---------------------------------------------------------------------------->
 
 <div align = left> 
   
@@ -19,6 +23,7 @@
 [![Button Click breastcancer]][Link breastcancer] 
 
 </div>
+<!---------------------------------------------------------------------------->
 
 <div align=left> 
 
@@ -28,15 +33,42 @@
   
 </div>
 
+<!---------------------------------------------------------------------------->
+
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff8a30?style=square&size=15'/> Handwritten digit recognition CNN
+
+[![Button Click handwritten]][Link handwritten] 
+  
+</div>
+
+<!---------------------------------------------------------------------------->
+
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff2954?style=square&size=15'/> CIFAR-10 object recognition CNN, SVM
+
+[![Button Click cifar]][Link cifar] 
+  
+</div>
 & more
 
 <!---------------------------------------------------------------------------->
 [Button Click MS]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30
 [Link MS]: https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA
+
 [Button Click breastcancer]: https://img.shields.io/badge/Click_Here_To_See_This_Project-f957ff?style=for-the-badge&height=30
 [Link breastcancer]: https://github.com/gapself/machine-learning-projects/blob/main/breast_cancer_classifiers.ipynb
+
 [Button Click twitter]: https://img.shields.io/badge/Click_Here_To_See_This_Project-7247ff?style=for-the-badge&height=30
 [Link twitter]: https://github.com/gapself/machine-learning-projects/blob/main/natural-language-processing-projects/covid_twitter_preprocessing.ipynb
+
+[Button Click handwritten]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff8a30?style=for-the-badge&height=30
+[Link handwritten]: https://github.com/gapself/machine-learning-projects/blob/main/image-recognition-projects/mnist.ipynb 
+
+[Button Click cifar]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff2954?style=for-the-badge&height=30
+[Link cifar]: https://github.com/gapself/machine-learning-projects/blob/main/image-recognition-projects/cifar10_cnn.ipynb
 
 <br>
 <!---------------------------------------------------------------------------->

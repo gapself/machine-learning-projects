@@ -1,4 +1,4 @@
-# Breast Cancer Classifiers Project
+# Breast Cancer Detection Project
 
 ## Overview
 

@@ -22,6 +22,15 @@ Breast cancer is a complex disease with different subtypes and variations. Machi
 
 The dataset used for this project is the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), which contains a collection of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The dataset includes various features such as mean radius, mean texture, mean smoothness, and more. It is a widely used dataset for breast cancer classification tasks.
 
+Data is divided into train set 90 % and test set 10%. We used Stratified Validation to protect the data from random split. 
+> There is something that can potentially affect the quality of your prediction that is most often forgotten when generating these splits: the distribution of your target variable(s).
+> These dataset divisions are usually generated randomly according to a target variable. However, when doing so, the proportions of the target variable among the different splits can differ, especially in the case of small datasets. This means that we are training and evaluating in heterogeneous subgroups, which will lead to prediction errors.
+> The solution is simple: stratified sampling. This technique consists of forcing the distribution of the target variable(s) among the different splits to be the same. This small change will result in training on the same population in which it is being evaluated, achieving better predictions.
+> source: https://towardsdatascience.com/stratified-sampling-you-may-have-been-splitting-your-dataset-all-wrong-8cfdd0d32502
+
+Number of Instances: 569
+Class Distribution: 212 - Malignant, 357 - Benign
+
 ## Installation
 
 To run the code in this repository, follow these installation steps:
@@ -154,11 +163,54 @@ In this project, we explore 8 various machine learning models for breast cancer 
   > - Customer Churn Prediction
   > - Recommendation Systems
 
-Each model is implemented and evaluated separately, with a focus on comparing their performance metrics such as accuracy, precision, recall, and F1-score.
-
 ## Evaluation
 
-The evaluation of the breast cancer classifiers is a crucial aspect of this project. We assess the model performance using various metrics and techniques, including cross-validation, confusion matrices, ROC curves, and AUC-ROC scores. The results and conclusions are documented in the project notebooks and reports.
+We create dictionary called classifiers to apply model for every classifier. Each model is implemented and evaluated separately.
+```
+classifiers = {"LinearRegression" : LinearRegression(),
+               "GaussianProcessClassifier" : GaussianProcessClassifier(),
+               "GaussianNB" : GaussianNB(),
+               "SVC" : SVC(),
+               "MLPClassifier" : MLPClassifier(),
+               "KNeighborsClassifier" : KNeighborsClassifier(),
+               "SGDClassifier" : SGDClassifier()}
+```
+Our .score() results:
+> SCORE - It is used to evaluate the performance of a model on a given dataset. The score method returns a value between 0 and 1, where 1 represents a perfect fit and 0 represents a complete mismatch.
+> The score method is implemented differently for different classifiers. For example, in a linear regression model, the score method returns the coefficient of determination R^2 of the prediction. In a classification model, the score method returns the mean accuracy on the given test data and labels.
+> source: https://saturncloud.io/blog/understanding-the-difference-between-score-and-accuracyscore-in-scikitlearn/
+```
+LinearRegression() 
+ 0.6970003216389806
+GaussianProcessClassifier() 
+ 0.9298245614035088
+GaussianNB() 
+ 0.9824561403508771
+SVC() 
+ 0.9298245614035088
+MLPClassifier() 
+ 0.8771929824561403
+KNeighborsClassifier() 
+ 0.9122807017543859
+SGDClassifier() 
+ 0.8596491228070176
+ ```
+
+We assess the model performance using various metrics and techniques, including cross-validation, confusion matrices, ROC curves, and AUC-ROC scores. 
+
+<b>Cross-validation</b>
+> With a small data set, it is difficult to isolate a representative test set.
+> 1. One way is to run the entire process several times and report the averages and deviations of the results obtained.
+> 2. A better way is to split the entire dataset into K bundles and iteratively use each bundle as test data and all others (in each iteration) as training data.
+> Use the StratifiedKFold class from the sklearn.model_selection module to divide the set into 5 parts and repeat the previous experiment to calculate model accuracy. As a result, enter the average value and standard deviation for all divisions of a given model.
+
+For all models except linear regression, apply fit methods on training data and predict methods on test data as appropriate. Then calculate the accuracy (accuracy_score), precision, sensitivity (recall), f-score and confusion matrix for individual classifiers. Also use the classification_report method to see the overall report.
+
+<b>ROC and AUC</b>
+> Use all models except linear regression and GPC, and for SVC add probability=True. Use cross-validation to train each model and calculate predict_proba for the entire set. Then calculate roc_curve and auc_score for all models and plot on the graph.
+
+The results and conclusions are documented in the project notebooks and reports.
+
 
 ## Contributing
 

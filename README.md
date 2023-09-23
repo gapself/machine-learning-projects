@@ -59,16 +59,16 @@
 [Link MS]: https://github.com/gapself/machine-learning-projects/tree/main/image-recognition-projects/emotion-recognition-MA
 
 [Button Click breastcancer]: https://img.shields.io/badge/Click_Here_To_See_This_Project-f957ff?style=for-the-badge&height=30
-[Link breastcancer]: https://github.com/gapself/machine-learning-projects/blob/main/breast_cancer_classifiers.ipynb
+[Link breastcancer]: https://github.com/gapself/machine-learning-projects/tree/main/breast-cancer-detection
 
 [Button Click twitter]: https://img.shields.io/badge/Click_Here_To_See_This_Project-7247ff?style=for-the-badge&height=30
-[Link twitter]: https://github.com/gapself/machine-learning-projects/blob/main/natural-language-processing-projects/covid_twitter_preprocessing.ipynb
+[Link twitter]: https://github.com/gapself/machine-learning-projects/tree/main/twitter-sentiment-analysis
 
 [Button Click handwritten]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff8a30?style=for-the-badge&height=30
-[Link handwritten]: https://github.com/gapself/machine-learning-projects/blob/main/image-recognition-projects/mnist.ipynb 
+[Link handwritten]: https://github.com/gapself/machine-learning-projects/tree/main/handwritten-digit-recognition
 
 [Button Click cifar]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff2954?style=for-the-badge&height=30
-[Link cifar]: https://github.com/gapself/machine-learning-projects/blob/main/image-recognition-projects/cifar10_cnn.ipynb
+[Link cifar]: https://github.com/gapself/machine-learning-projects/tree/main/object-recognition-cifar10
 
 <br>
 <!---------------------------------------------------------------------------->

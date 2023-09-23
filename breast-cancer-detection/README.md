@@ -13,7 +13,6 @@ This repository contains code and resources for a breast cancer classifier proje
 5. [Models](#models)
 6. [Evaluation](#evaluation)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Description
 
@@ -51,7 +50,7 @@ To use the classifiers developed in this project, you can refer to the provided 
 
 ## Models
 
-In this project, we explore various machine learning models for breast cancer classification:
+In this project, we explore 8 various machine learning models for breast cancer classification:
 
 - Linear Regression  👎 👎 👎
   > Purpose of using it for this project?
@@ -66,6 +65,29 @@ In this project, we explore various machine learning models for breast cancer cl
   > - estimating income over time
   > - computing mileage rates
   > - predicting profit
+  
+- Gaussian Process (GaussianProcessClassifier) 👎 👎 👎
+  > Description:
+  > - primarily used for probabilistic binary classification tasks, providing not only point predictions but also uncertainty estimates for each prediction
+  
+  > Use examples:
+  > - Anomaly Detection (fraud detection)
+  > - Time Series Classification
+  > - Medical Diagnosis
+  > - Natural Language Processing
+  
+- Gaussian Naive Bayes (GaussianNB) 👎 👎 👎
+  > GaussianNB can be used for breast cancer classification, but it may not be the best choice, especially for complex tasks like this. The main reason is that it assumes that features are normally distributed, which may not hold true for all the features in a breast cancer dataset. 
+
+  > Description:
+  > - based on Bayes' theorem and assumes that features are normally distributed within each class.
+  
+  > Use examples:
+  > - Text Classification (spam or not)
+  > - Sentiment Analysis (positive, negative, or neutral of customer reviews or social media posts)
+  > - Document Categorization (topics to category)
+  > - Medical Diagnosis: Identifying diseases or conditions based on patient symptoms and test results.
+  > - Customer Churn Prediction: Predicting whether customers are likely to churn or stay with a service provider
 
 - Support Vector Classification (SVC) 👍 🥳
   > Description:
@@ -92,29 +114,6 @@ In this project, we explore various machine learning models for breast cancer cl
   > - disease diagnosis
   > - credit risk assessment
 
-- Gaussian Process (GaussianProcessClassifier) 👎 👎 👎
-  > Description:
-  > - primarily used for probabilistic binary classification tasks, providing not only point predictions but also uncertainty estimates for each prediction
-  
-  > Use examples:
-  > - Anomaly Detection (fraud detection)
-  > - Time Series Classification
-  > - Medical Diagnosis
-  > - Natural Language Processing
-  
-- Gaussian Naive Bayes (GaussianNB) 👎 👎 👎
-  > GaussianNB can be used for breast cancer classification, but it may not be the best choice, especially for complex tasks like this. The main reason is that it assumes that features are normally distributed, which may not hold true for all the features in a breast cancer dataset. 
-
-  > Description:
-  > - based on Bayes' theorem and assumes that features are normally distributed within each class.
-  
-  > Use examples:
-  > - Text Classification (spam or not)
-  > - Sentiment Analysis (positive, negative, or neutral of customer reviews or social media posts)
-  > - Document Categorization (topics to category)
-  > - Medical Diagnosis: Identifying diseases or conditions based on patient symptoms and test results.
-  > - Customer Churn Prediction: Predicting whether customers are likely to churn or stay with a service provider
-
 - Multi-layer Perceptron Classifier (MLPClassifier) 👍 🥳
   > Yes, MLPClassifier can be suitable for breast cancer classification, especially when dealing with tabular data containing diagnostic features. It has the capacity to model complex relationships in the data and can adapt to non-linear patterns. However, its performance depends on factors like the architecture of the neural network, hyperparameter tuning, and the specific characteristics of the dataset. It is a common choice for medical diagnosis tasks, but its effectiveness should be evaluated in comparison to other machine learning models like logistic regression, support vector machines, or random forests.
   
@@ -129,7 +128,7 @@ In this project, we explore various machine learning models for breast cancer cl
   > - Medical Diagnosis
 
   
-- KNeighborsClassifier 👍 🥳
+- K-Nearest Neighbors (KNeighborsClassifier) 👍 🥳
   > KNeighborsClassifier can be suitable for breast cancer classification. However, its performance depends on factors like the choice of distance metric, the number of neighbors (k), and the scaling of features. It is important to preprocess the data appropriately and choose optimal hyperparameters for the specific dataset. While it can work well for some breast cancer datasets, other machine learning algorithms like logistic regression, support vector machines, random forests, or neural networks are also commonly used for this task and should be considered for comparison.
   
   > Description:
@@ -164,10 +163,6 @@ The evaluation of the breast cancer classifiers is a crucial aspect of this proj
 ## Contributing
 
 Contributions to this project are welcome. If you have any ideas, improvements, or bug fixes to suggest, please open an issue or create a pull request. Be sure to follow the [Contributing Guidelines](CONTRIBUTING.md) when submitting your contributions.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 ---
 

@@ -81,7 +81,6 @@
 &emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/C77DFF?style=circle&size=10'/> Supervised Learning I : Regressors, Classifiers and Trees<br> -->
 
 <br>
-
 ## Environment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

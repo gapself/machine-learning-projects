@@ -9,25 +9,39 @@
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition CNN, OpenCV
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/b4ff89?style=square&size=15'/> Human emotions recognition: CNN, OpenCV
 
 [![Button Click MS]][Link MS] 
   
 </div>
-<!---------------------------------------------------------------------------->
 
-<div align = left> 
-  
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/f957ff?style=square&size=15'/> Breast cancer detection KNN, SGD, SVC, MLP, Gaussian
 
-[![Button Click breastcancer]][Link breastcancer] 
-
-</div>
 <!---------------------------------------------------------------------------->
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/7247ff?style=square&size=15'/> Twitter sentiment analysis Word2Vec, KMeans
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/4060ff?style=square&size=15'/> Financial Fraud Detection: Logistic Regression, Random Trees
+
+[![Button Click fraud]][Link fraud] 
+  
+</div>
+
+<!---------------------------------------------------------------------------->
+
+<div align = left> 
+  
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/f957ff?style=square&size=15'/> Breast cancer detection: KNN, SGD, SVC, MLP, Gaussian
+
+[![Button Click breastcancer]][Link breastcancer] 
+
+</div>
+
+<!---------------------------------------------------------------------------->
+
+
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/7247ff?style=square&size=15'/> Twitter sentiment analysis: Word2Vec, KMeans
 
 [![Button Click twitter]][Link twitter]
   
@@ -37,7 +51,7 @@
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff8a30?style=square&size=15'/> Handwritten digit recognition CNN
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff8a30?style=square&size=15'/> Handwritten digit recognition: CNN
 
 [![Button Click handwritten]][Link handwritten] 
   
@@ -47,23 +61,13 @@
 
 <div align=left> 
 
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff2954?style=square&size=15'/> CIFAR-10 object recognition CNN, SVM
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/ff2954?style=square&size=15'/> CIFAR-10 object recognition: CNN, SVM
 
 [![Button Click cifar]][Link cifar] 
   
 </div>
-
 <!---------------------------------------------------------------------------->
 
-<div align=left> 
-
-&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/4060ff?style=square&size=15'/> Financial Fraud Detection Logistic Regression, Random Trees
-
-[![Button Click fraud]][Link fraud] 
-  
-</div>
-
-& more
 
 <!---------------------------------------------------------------------------->
 [Button Click MS]: https://img.shields.io/badge/Click_Here_To_See_This_Project-b4ff89?style=for-the-badge&height=30

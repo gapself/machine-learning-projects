@@ -52,6 +52,17 @@
 [![Button Click cifar]][Link cifar] 
   
 </div>
+
+<!---------------------------------------------------------------------------->
+
+<div align=left> 
+
+&emsp;&emsp;<img valign='middle' alt='green' src='https://readme-swatches.vercel.app/4060ff?style=square&size=15'/> Financial Fraud Detection Logistic Regression, Random Trees
+
+[![Button Click fraud]][Link fraud] 
+  
+</div>
+
 & more
 
 <!---------------------------------------------------------------------------->
@@ -70,6 +81,9 @@
 [Button Click cifar]: https://img.shields.io/badge/Click_Here_To_See_This_Project-ff2954?style=for-the-badge&height=30
 [Link cifar]: https://github.com/gapself/machine-learning-projects/tree/main/object-recognition-cifar10
 
+[Button Click fraud]: https://img.shields.io/badge/Click_Here_To_See_This_Project-4060ff?style=for-the-badge&height=30
+[Link fraud]: https://github.com/gapself/machine-learning-projects/tree/main/financial-fraud-detection 
+
 <br>
 <!---------------------------------------------------------------------------->
 
@@ -81,6 +95,7 @@
 &emsp;&emsp; <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/C77DFF?style=circle&size=10'/> Supervised Learning I : Regressors, Classifiers and Trees<br> -->
 
 <br>
+
 ## Environment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)

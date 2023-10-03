@@ -88,7 +88,6 @@
 [Button Click fraud]: https://img.shields.io/badge/Click_Here_To_See_This_Project-4060ff?style=for-the-badge&height=30
 [Link fraud]: https://github.com/gapself/machine-learning-projects/tree/main/financial-fraud-detection 
 
-<br>
 <!---------------------------------------------------------------------------->
 
 <!-- ## Fields:

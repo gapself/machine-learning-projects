@@ -70,3 +70,7 @@ print(results.params) #[T.sth] corresponds to 1 = YES (slope)
 
 
 
+days = [x for x in range(7)]
+money_spent = [x for x in range(10,25,2)]
+print(days)
+print(money_spent)
